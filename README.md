@@ -2,6 +2,7 @@
   ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
   ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-566be8?style=flat)
   ![Encoder Decoder](https://img.shields.io/badge/-Encoder%20Decoder-yellow?style=flat)
+  ![VGG16](https://img.shields.io/badge/-VGG16-purple?style=flat)
   ![LSTM](https://img.shields.io/badge/-LSTM-blue?style=flat)
   ![Attention Mechanism](https://img.shields.io/badge/-Attention%20Mechanism-blue?style=flat)
   ![Sklearn](https://img.shields.io/badge/-Sklearn-1fb30e?style=flat)
