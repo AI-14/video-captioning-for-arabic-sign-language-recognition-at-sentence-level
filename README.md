@@ -14,7 +14,6 @@ The dataset consists of
 1. Total number of video samples are 534.
 1. 10 different sentences performed by three signers.
 2. Each video sample is already normalized to 80 frames.
-> **Note:** *The link to the dataset is private and restricted to only specific personnel*.
 
 ## Installation and Usage <a name="installation-usage"></a>
   - Requirements
