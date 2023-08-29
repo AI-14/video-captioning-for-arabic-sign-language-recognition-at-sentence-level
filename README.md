@@ -22,4 +22,3 @@ The dataset consists of
   - `cd video-captioning-for-arabic-sign-language-recognition-at-sentence-level`
   - `py -m venv yourVenvName` - creates a virtual environment
   - `pip install -r requirements.txt` - installs all modules
-  - Open the `.ipynb` file
